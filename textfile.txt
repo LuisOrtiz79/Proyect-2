@@ -1,0 +1,236 @@
+Initial Player 1: [ks, qs, js, ts, 9s, 8s, 7s, 6s, 5s]
+Initial Player 2: [4s, 3s, 2s, as, kh, qh, jh, th, 9h]
+Initial player 1:
+Added:8h
+Discarded:ts
+Hand now: [ks, qs, js, 9s, 8s, 7s, 6s, 5s, 8h]
+Cards left in deck: 52
+Initial player 2:
+Added:6h
+Discarded:3s
+Hand now: [4s, 2s, as, kh, qh, jh, th, 9h, 6h]
+Cards left in deck: 52
+Initial player 1:
+Added:4h
+Discarded:9s
+Hand now: [ks, qs, js, 8s, 7s, 6s, 5s, 8h, 4h]
+Cards left in deck: 52
+Initial player 2:
+Added:3h
+Discarded:4s
+Hand now: [2s, as, kh, qh, jh, th, 9h, 6h, 3h]
+Cards left in deck: 52
+Initial player 1:
+Added:2h
+Discarded:js
+Hand now: [ks, qs, 8s, 7s, 6s, 5s, 8h, 4h, 2h]
+Cards left in deck: 52
+Initial player 2:
+Added:ah
+Discarded:kh
+Hand now: [2s, as, qh, jh, th, 9h, 6h, 3h, ah]
+Cards left in deck: 52
+Initial player 1:
+Added:kd
+Discarded:8s
+Hand now: [ks, qs, 7s, 6s, 5s, 8h, 4h, 2h, kd]
+Cards left in deck: 52
+Initial player 2:
+Added:qd
+Discarded:as
+Hand now: [2s, qh, jh, th, 9h, 6h, 3h, ah, qd]
+Cards left in deck: 52
+Initial player 1:
+Added:jd
+Discarded:7s
+Hand now: [ks, qs, 6s, 5s, 8h, 4h, 2h, kd, jd]
+Cards left in deck: 52
+Initial player 2:
+Added:td
+Discarded:jh
+Hand now: [2s, qh, th, 9h, 6h, 3h, ah, qd, td]
+Cards left in deck: 52
+Initial player 1:
+Added:9d
+Discarded:6s
+Hand now: [ks, qs, 5s, 8h, 4h, 2h, kd, jd, 9d]
+Cards left in deck: 52
+Initial player 2:
+Added:8d
+Discarded:th
+Hand now: [2s, qh, 9h, 6h, 3h, ah, qd, td, 8d]
+Cards left in deck: 52
+Initial player 1:
+Added:7d
+Discarded:qs
+Hand now: [ks, 5s, 8h, 4h, 2h, kd, jd, 9d, 7d]
+Cards left in deck: 52
+Initial player 2:
+Added:6d
+Discarded:6h
+Hand now: [2s, qh, 9h, 3h, ah, qd, td, 8d, 6d]
+Cards left in deck: 52
+Initial player 1:
+Added:5d
+Discarded:4h
+Hand now: [ks, 5s, 8h, 2h, kd, jd, 9d, 7d, 5d]
+Cards left in deck: 52
+Initial player 2:
+Added:4d
+Discarded:9h
+Hand now: [2s, qh, 3h, ah, qd, td, 8d, 6d, 4d]
+Cards left in deck: 52
+Initial player 1:
+Added:3d
+Discarded:kd
+Hand now: [ks, 5s, 8h, 2h, jd, 9d, 7d, 5d, 3d]
+Cards left in deck: 52
+Initial player 2:
+Added:2d
+Discarded:ah
+Hand now: [2s, qh, 3h, qd, td, 8d, 6d, 4d, 2d]
+Cards left in deck: 52
+Initial player 1:
+Added:ad
+Discarded:jd
+Hand now: [ks, 5s, 8h, 2h, 9d, 7d, 5d, 3d, ad]
+Cards left in deck: 52
+Initial player 2:
+Added:kc
+Discarded:qd
+Hand now: [2s, qh, 3h, td, 8d, 6d, 4d, 2d, kc]
+Cards left in deck: 52
+Initial player 1:
+Added:qc
+Discarded:9d
+Hand now: [ks, 5s, 8h, 2h, 7d, 5d, 3d, ad, qc]
+Cards left in deck: 52
+Initial player 2:
+Added:jc
+Discarded:8d
+Hand now: [2s, qh, 3h, td, 6d, 4d, 2d, kc, jc]
+Cards left in deck: 52
+Initial player 1:
+Added:tc
+Discarded:7d
+Hand now: [ks, 5s, 8h, 2h, 5d, 3d, ad, qc, tc]
+Cards left in deck: 52
+Initial player 2:
+Added:9c
+Discarded:3h
+Hand now: [2s, qh, td, 6d, 4d, 2d, kc, jc, 9c]
+Cards left in deck: 52
+Initial player 1:
+Added:8c
+Discarded:2h
+Hand now: [ks, 5s, 8h, 5d, 3d, ad, qc, tc, 8c]
+Cards left in deck: 52
+Initial player 2:
+Added:7c
+Discarded:td
+Hand now: [2s, qh, 6d, 4d, 2d, kc, jc, 9c, 7c]
+Cards left in deck: 52
+Initial player 1:
+Added:6c
+Discarded:3d
+Hand now: [ks, 5s, 8h, 5d, ad, qc, tc, 8c, 6c]
+Cards left in deck: 52
+Initial player 2:
+Added:5c
+Discarded:4d
+Hand now: [2s, qh, 6d, 2d, kc, jc, 9c, 7c, 5c]
+Cards left in deck: 52
+Initial player 1:
+Added:4c
+Discarded:5d
+Hand now: [ks, 5s, 8h, ad, qc, tc, 8c, 6c, 4c]
+Cards left in deck: 52
+Initial player 2:
+Added:3c
+Discarded:2d
+Hand now: [2s, qh, 6d, kc, jc, 9c, 7c, 5c, 3c]
+Cards left in deck: 52
+Initial player 1:
+Added:2c
+Discarded:qc
+Hand now: [ks, 5s, 8h, ad, tc, 8c, 6c, 4c, 2c]
+Cards left in deck: 52
+Initial player 2:
+Added:ac
+Discarded:6d
+Hand now: [2s, qh, kc, jc, 9c, 7c, 5c, 3c, ac]
+Cards left in deck: 52
+Discarded:8h
+Hand now: [ks, 5s, ad, tc, 8c, 6c, 4c, 2c]
+Cards left in deck: 52
+Discarded:jc
+Hand now: [2s, qh, kc, 9c, 7c, 5c, 3c, ac]
+Cards left in deck: 52
+Discarded:ad
+Hand now: [ks, 5s, tc, 8c, 6c, 4c, 2c]
+Cards left in deck: 52
+Discarded:kc
+Hand now: [2s, qh, 9c, 7c, 5c, 3c, ac]
+Cards left in deck: 52
+Discarded:tc
+Hand now: [ks, 5s, 8c, 6c, 4c, 2c]
+Cards left in deck: 52
+Discarded:7c
+Hand now: [2s, qh, 9c, 5c, 3c, ac]
+Cards left in deck: 52
+Discarded:6c
+Hand now: [ks, 5s, 8c, 4c, 2c]
+Cards left in deck: 52
+Discarded:9c
+Hand now: [2s, qh, 5c, 3c, ac]
+Cards left in deck: 52
+Discarded:5s
+Hand now: [ks, 8c, 4c, 2c]
+Cards left in deck: 52
+Discarded:5c
+Hand now: [2s, qh, 3c, ac]
+Cards left in deck: 52
+Discarded:8c
+Hand now: [ks, 4c, 2c]
+Cards left in deck: 52
+Discarded:3c
+Hand now: [2s, qh, ac]
+Cards left in deck: 52
+Discarded:4c
+Hand now: [ks, 2c]
+Cards left in deck: 52
+Discarded:qh
+Hand now: [2s, ac]
+Cards left in deck: 52
+Discarded:2c
+Hand now: [ks]
+Cards left in deck: 52
+Discarded:2s
+Hand now: [ac]
+Cards left in deck: 52
+Discarded:ks
+Player 1 Wins
+Player 1 Wins
+Points: 0 to 1
+Player 1 Wins
+Player 1 Wins
+Player 1 Wins
+Points: 0 to 1
+Player 1 Wins
+Hand now: []
+Cards left in deck: 52
+Player 1 Wins
+Player 1 Wins
+Points: 0 to 1
+Player 1 Wins
+Discarded:ac
+Player 1 Wins
+Player 1 Wins
+Points: 0 to 0
+Player 2 Wins
+Hand now: []
+Cards left in deck: 52
+Player 1 Wins
+Player 1 Wins
+Points: 0 to 0
+Player 2 Wins
