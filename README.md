@@ -1,8 +1,11 @@
 # Proyect-2
 
 Luis E. Ortiz cotto
+
 #801-16-5704
+
 CCOM4029 Sec.002
+
 Prof. Patricia Ordonez
 
 The purpose of this project is to run a game of rummy for which the player has to create a stack and modify 
